@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ems-website-React/static/css/main.036b16da.css",
+    "main.js": "/Ems-website-React/static/js/main.d7ca0fce.js",
+    "index.html": "/Ems-website-React/index.html",
+    "main.036b16da.css.map": "/Ems-website-React/static/css/main.036b16da.css.map",
+    "main.d7ca0fce.js.map": "/Ems-website-React/static/js/main.d7ca0fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.036b16da.css",
+    "static/js/main.d7ca0fce.js"
+  ]
+}
